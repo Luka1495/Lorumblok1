@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917261801616",
+    "project_id": "lorumblok",
+    "storage_bucket": "lorumblok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917261801616:android:e79c9378012ba3e8e2a015",
+        "android_client_info": {
+          "package_name": "com.example.lorumblok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXkGFCTAeOTXp5apDIKMuAqGc5ik_PdwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
